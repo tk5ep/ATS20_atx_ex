@@ -11,5 +11,6 @@ Compiles OK.
 Programming into the ATS20+ receiver via the Arduino USB mini B connector with AVRDude.
 
 WARNING !!!
+If you have an older ATS20+ version with 2 USB connectors on the rear.
 You MUST use a USB cable with the +5V line removed. It can be done by removing the cable jacket and screening and cutting the RED wire.
 Otherwise, you will BURN YOUR AST20+ !
